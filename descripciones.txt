@@ -1,0 +1,68 @@
+IA_TITLE=2026 El fósil que seguía respirando
+IA_THUMB=NO ESTABA EXTINTO
+IA_FILE=ia_celacanto.mp4
+IA_VOICE=es-MX-DaliaNeural
+IA_CAT=15
+
+IA_DESC=
+¿Cómo puede un pez llevar millones de años en la lista de los muertos y aparecer, con olor a mar, sobre una mesa de 1938? En 2026 este documental de IA al Alcance sigue a Latimeria, el celacanto: el azul de las Comoras y el castaño de Célebes. No es el abuelo de tus piernas ni un fósil que salió a caminar. Es un pariente de aletas lobuladas que sigue ocupando cuevas en la pendiente, de noche, con una bisagra en el cráneo y un hocico que lee electricidad débil.
+
+Vas a oír el diciembre de East London, el oficio de Marjorie Courtenay Latimer, el nombre que agradece y el río Chalumna, la borla de la cola, la grasa que lo sostiene, la urea, la válvula en espiral, el vuelo de 1952 hacia Anjouan, el gombessa, el mercado de Manado, el genoma de 2013 y la estimación de vida larga publicada en 2021. También vas a oír lo que no sabemos: dónde nace, cuántos quedan, y por qué un foco en la cueva no es un saludo.
+
+Si el dato te movió, sígueme, deja like y comparte este video con alguien que todavía dice que todo lo raro ya está en los libros. El siguiente paso está en los enlaces. Entra, lee la ficha del vendedor y elige con calma. Aquí no hay precios ni una orden de compra. Hay herramientas de quien mira la fauna de verdad, lejos del souvenir.
+
+1. Guantes para orilla y roca: https://www.amazon.com/s?k=guantes+neopreno+costa&tag=michelgonza02-20
+2. Libro del océano profundo: https://www.amazon.com/s?k=libro+oceano+profundo+ilustrado&tag=michelgonza02-20
+3. Linterna sumergible: https://www.amazon.com/s?k=linterna+sumergible+buceo&tag=michelgonza02-20
+4. Mochila impermeable: https://www.amazon.com/s?k=mochila+impermeable+30l&tag=michelgonza02-20
+5. Libreta de campo: https://www.amazon.com/s?k=libreta+de+campo+tapa+dura&tag=michelgonza02-20
+
+Contenido generado con asistencia de inteligencia artificial. No es asesoría científica personal ni una invitación a molestar fauna. El celacanto está protegido: se mira, no se extrae. Fuentes de fondo: descripción de Smith tras el ejemplar de 1938; observaciones con sumergible de Fricke en las Comoras; Amemiya y colaboradores, genoma, Nature 2013; Mahé, Ernande y Herbin, Current Biology 2021, sobre edad y gestación estimadas; fichas UICN y CITES.
+
+#Celacanto #Latimeria #Comoras #Oceano #Ciencia #Fauna #2026 #IAAlAlcance #Gombessa #Conservacion
+
+FE_TITLE=2026 El general que despreció el río
+FE_THUMB=RECHAZÓ EL RÍO
+FE_FILE=fe_naaman.mp4
+FE_VOICE=es-MX-JorgeNeural
+FE_CAT=27
+
+FE_DESC=
+¿Por qué un jefe de guerra, con carros y oro, se negó a entrar en el único río que podía devolverle la piel? Este recorrido de 2026 en Refugio en la Palabra es una película hablada, original, sobre Naamán, el Jordán y la ofensa de lo sencillo. No es un audiolibro ajeno ni la voz de otro autor. Es una oración en voz alta: gratitud a Jehová y a Jesucristo, sin oponerlos, y la promesa de que quien busca a Dios no se queda vacío.
+
+La niña cautiva habla primero. Eliseo no sale al balcón: manda un recado. Siete zambullidas, no un espectáculo. Los criados dicen la verdad que el rango no quiere oír. La limpieza no se paga con regalos. La tierra en un saco no guarda a Dios. Y el trabajo complicado sigue ahí cuando el general vuelve a la corte. Si tu Jordán de hoy es una cocina tarde, una sala de espera o un vidrio de autobús, la orden sigue siendo pequeña y basta.
+
+Si esta palabra te sostuvo, sígueme, deja like y compártela con alguien que está a punto de irse en la sexta vez, no para lucirte, sino como quien pasa un vaso. El siguiente paso está en los enlaces de abajo. Míralos con calma. No hay precios en el video y no hay presión aquí: hay páginas para seguir la oración en casa.
+
+1. Separador de páginas para biblia: https://www.amazon.com/s?k=separador+de+paginas+biblia&tag=michelgonza02-20
+2. Diario de gratitud tapa dura: https://www.amazon.com/s?k=diario+de+gratitud+tapa+dura&tag=michelgonza02-20
+3. Bolígrafo de gel: https://www.amazon.com/s?k=boligrafo+gel+tinta+negra&tag=michelgonza02-20
+4. Lámpara de lectura recargable: https://www.amazon.com/s?k=lampara+de+lectura+recargable&tag=michelgonza02-20
+5. Funda para biblia: https://www.amazon.com/s?k=funda+para+biblia&tag=michelgonza02-20
+
+Material original, con asistencia de inteligencia artificial, para aliento y reflexión. No sustituye acompañamiento pastoral ni atención de salud. Citas breves según Reina Valera 1909, dominio público: 2 Reyes 5 y Jeremías 29:13, parafraseadas en el relato salvo los trazos necesarios. No se nombran productos dentro del video.
+
+#Fe #Esperanza #Naaman #Jordán #Oracion #Jehova #Jesucristo #2026 #RefugioEnLaPalabra #Gratitud
+
+CU_TITLE=2026 Tu voz grabada no es un engaño
+CU_THUMB=NO ES TU VOZ
+CU_FILE=cu_voz_hueso.mp4
+CU_VOICE=es-CO-SalomeNeural
+CU_CAT=27
+
+CU_DESC=
+¿Por qué la voz de tu grabación parece de otra persona si estabas en la misma habitación? En 2026 este video mira el camino que el teléfono no invita: el hueso. Cuando hablas, el aire entra por el oído y, a la vez, la mandíbula y el temporal llevan graves directo a la cóclea. Por eso dentro de tu cabeza suenas más lleno. La grabación solo guarda el aire. No te insulta. Te quita el cráneo.
+
+Después, sin prometer curas, el relato pasa por la mesa: salvia, nuez moscada en raspado mínimo, cilantro y la diferencia de receptores que a unos les sabe a hierba y a otros a jabón, lavanda para bajar la pantalla, azafrán cosechado a mano. Nada de esto reemplaza a un médico ni se mezcla a ciegas con un tratamiento. Es cocina y aroma, no un diagnóstico. Aquí no hay Cuba, no hay receta milagro y no hay precios.
+
+Si te pasó con tu propia nota de voz, sígueme, deja like y comparte el video con quien todavía discute con el altavoz. El siguiente paso está en los enlaces. Son utensilios de cocina que se venden todos los días. Entras, miras la ficha y decides. Dentro del video no se nombran.
+
+1. Tetera de vidrio: https://www.amazon.com/s?k=tetera+de+vidrio+para+infusion&tag=michelgonza02-20
+2. Infusor de acero: https://www.amazon.com/s?k=infusor+de+te+acero+inoxidable&tag=michelgonza02-20
+3. Tarros de vidrio para especias: https://www.amazon.com/s?k=tarros+de+vidrio+especias&tag=michelgonza02-20
+4. Mortero de granito: https://www.amazon.com/s?k=mortero+granito+cocina&tag=michelgonza02-20
+5. Cuchara de madera: https://www.amazon.com/s?k=cuchara+de+madera+cocina&tag=michelgonza02-20
+
+Contenido generado con asistencia de inteligencia artificial. Habla de curiosidades del cuerpo y de usos tradicionales de cocina. No es consejo médico, no diagnostica y no promete sanar enfermedades. Si algo te irrita, lo apartas. Si tomas un tratamiento, pregunta antes de mezclar infusiones.
+
+#Voz #CuerpoHumano #Coclea #Salvia #Lavanda #Azafran #2026 #AnatomiaDelEngano #Cocina #Curiosidades

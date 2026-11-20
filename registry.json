@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-20",
+  "note": "No repetir estas especies ni estos temas.",
+  "videos": [
+    {
+      "file": "ia_celacanto.mp4",
+      "channel": "IA al Alcance",
+      "title": "2026 El fósil que seguía respirando",
+      "thumb": "NO ESTABA EXTINTO",
+      "voice": "es-MX-DaliaNeural",
+      "categoryId": "15",
+      "theme": "Latimeria chalumnae y Latimeria menadoensis, celacanto, gombessa",
+      "duration_sec": 1996.17,
+      "words": 4851
+    },
+    {
+      "file": "fe_naaman.mp4",
+      "channel": "Refugio en la Palabra",
+      "title": "2026 El general que despreció el río",
+      "thumb": "RECHAZÓ EL RÍO",
+      "voice": "es-MX-JorgeNeural",
+      "categoryId": "27",
+      "theme": "Naamán, Jordán, 2 Reyes 5, RV1909, no vacío",
+      "duration_sec": 962.33,
+      "words": 2301
+    },
+    {
+      "file": "cu_voz_hueso.mp4",
+      "channel": "Anatomia del engaño",
+      "title": "2026 Tu voz grabada no es un engaño",
+      "thumb": "NO ES TU VOZ",
+      "voice": "es-CO-SalomeNeural",
+      "categoryId": "27",
+      "theme": "conducción ósea, cóclea; salvia, nuez moscada, cilantro, lavanda, azafrán. Sin Cuba.",
+      "duration_sec": 214.25,
+      "words": 574
+    }
+  ],
+  "amazon_tag": "michelgonza02-20",
+  "buffer": "no publicado en esta pasada por HTTP 429"
+}
